@@ -1,27 +1,25 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "HowTo",
-  "description": "Example README file demonstrating a suggested README file structure for software projects",
-  "name": "READMINE",
-  "codeRepository": "https://github.com/mhucka/readmine",
-  "issueTracker": "https://github.com/mhucka/readmine/issues",
-  "license": "https://github.com/mhucka/readmine/blob/master/LICENSE",
-  "version": "1.0.2",
+  "@type": "SoftwareSourceCode",
+  "description": "YOUR DESCRIPTION",
+  "name": "YOUR REPOSITORY NAME",
+  "codeRepository": "https://github.com/caltechlibrary/REPONAME",
+  "issueTracker": "https://github.com/caltechlibrary/REPONAME/issues",
+  "license": "https://github.com/caltechlibrary/REPONAME/blob/master/LICENSE",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Michael",
-      "familyName": "Hucka",
-      "affiliation": "Caltech Library",
-      "email": "mhucka@caltech.edu",
-      "@id": "https://orcid.org/0000-0001-9105-5960"
+      "givenName": "FIRSTNAME",
+      "familyName": "LASTNAME",
+      "affiliation": "California Institute of Technology Library",
+      "email": "EMAIL",
+      "@id": "https://orcid.org/YOUR-ORCID"
     }],
   "developmentStatus": "active",
-  "downloadUrl": "https://github.com/mhucka/readmine/archive/1.0.2.zip",
+  "downloadUrl": "https://github.com/caltechlibrary/REPONAME/archive/1.0.0.zip",
   "keywords": [
-    "README",
-    "templates",
-    "documentation"
+    "software",
   ],
-  "maintainer": "https://orcid.org/0000-0001-9105-5960",
+  "maintainer": "https://orcid.org/YOUR-ORCID",
 }
