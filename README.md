@@ -92,9 +92,10 @@ Acknowledgments
 
 This work was funded by the California Institute of Technology Library.
 
-(If this work was also supported other organizations or institutions, acknowledge them here.  In addition, if your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.)
-    
+(If this work was also supported by other organizations, acknowledge them here.  In addition, if your work relies on software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.)
+
 <div align="center">
+  <br>
   <a href="https://www.caltech.edu">
     <img width="100" height="100" src=".graphics/caltech-round.svg">
   </a>
