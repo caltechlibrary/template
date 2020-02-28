@@ -6,7 +6,7 @@
   "codeRepository": "https://github.com/caltechlibrary/REPONAME",
   "issueTracker": "https://github.com/caltechlibrary/REPONAME/issues",
   "license": "https://github.com/caltechlibrary/REPONAME/blob/master/LICENSE",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "author": [
     {
       "@type": "Person",
@@ -17,7 +17,7 @@
       "@id": "https://orcid.org/YOUR-ORCID"
     }],
   "developmentStatus": "active",
-  "downloadUrl": "https://github.com/caltechlibrary/REPONAME/archive/1.0.0.zip",
+  "downloadUrl": "https://github.com/caltechlibrary/REPONAME/archive/master.zip",
   "keywords": [
     "software",
   ],
