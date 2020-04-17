@@ -12,4 +12,4 @@ Specific instructions for your operating system
 + Installing Elasticsearch on macOS with [MacPorts](https://www.macports.org/)
     + `sudo port install elasticsearch`
 
-Elasticsearch can be run locally. By default it runs port 9200 of localhost (e.g. http://localhost:9200/_status).
+Elasticsearch can be run locally. By default it runs port 9200 of localhost (e.g. http://localhost:9200/).
