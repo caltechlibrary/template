@@ -32,7 +32,7 @@ default. We want to use a modern Python 3.x. Make sure it is
 installed and available along with the related version of pip.
 
 ```
-    sudo apt install python3 python3-pip
+sudo apt install python3 python3-pip
 ```
 
 ### macOS with MacPorts
@@ -42,8 +42,8 @@ approach (presumably Homebrew for macOS uses the Debian
 style commands)
 
 ```
-    sudo port install python38
-    sudo port install py38-pip
+sudo port install python38
+sudo port install py38-pip
 ```
 
 At this point you should be able to envoke the Python interpreter
@@ -51,8 +51,8 @@ using the `python3` command. You should see the version
 of python and pip with these commands.
 
 ```
-    python3 --version
-    python3 -m pip --version
+python3 --version
+python3 -m pip --version
 ```
 
 ### Install Python modules using the right pip
@@ -64,7 +64,7 @@ install the desired module.  Example of installing `py_dataset`
 and Elasticsearch python modules.
 
 ```shell
-    python3 -m pip install py_dataset
-    python3 -m pip install elasticsearch
+python3 -m pip install py_dataset
+python3 -m pip install elasticsearch
 ```
 
