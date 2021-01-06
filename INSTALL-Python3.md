@@ -7,7 +7,7 @@ _**Tip**_: If you are running on an Intel-based computers (e.g., most Macs and W
 
 ## A note about Python version issues
 
-It may be possible to use the default copy of Python provided by your operating system if it happens to be a version 3 edition of Python.  As of January 2021, the [oldest still-supported version of Python is 3.6](https://www.python.org/downloads/).  However, for historical reasons, many operating system distributions still ship with Python version 2.7 even today, despite that [Python 2 has been sunsetted](https://www.python.org/doc/sunset-python-2/). This can be confusing, because the default `python` and `pip` commands provided on these operating systems is version 2.7 of Python; attempting to run programs written for Python version 3 with version 2.7 can result in extremely confusing errors that bear no relationship to the _actual_ problem, which is that the program is not written to run in Python 2.7.
+It may be possible to use the default copy of Python provided by your operating system if it happens to be a version 3 edition of Python.  As of January 2021, the [oldest still-supported version of Python is 3.6](https://www.python.org/downloads/).  However, for historical reasons, many operating system distributions still ship with Python version 2.7 even today. This can be confusing, because the default `python` and `pip` commands provided on these operating systems is version 2.7 of Python; attempting to run programs written for Python version 3 with version 2.7 can result in extremely confusing errors that bear no relationship to the _actual_ problem, which is that the program is not written to run in Python 2.7.
 
 
 ## Installing a recent version of Python and `pip`
