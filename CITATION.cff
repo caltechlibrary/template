@@ -23,6 +23,7 @@ authors:
     orcid: "https://orcid.org/0000-0001-5644-440X"
 cff-version: "1.1.0"
 date-released: 2021-07-02
+doi: 10.22002/D1.2021
 keywords: 
   - template
 message: "If you use this software, please cite it using these metadata."
