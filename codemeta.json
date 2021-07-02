@@ -20,6 +20,12 @@
   "downloadUrl": "https://github.com/caltechlibrary/REPONAME/archive/master.zip",
   "keywords": [
     "software",
+    "science"
   ],
   "maintainer": "https://orcid.org/YOUR-ORCID",
+  "funder": { 
+          "@id": "https://doi.org/10.13039/100006961",
+          "@type": "Organization",
+          "name": "Caltech Library"
+  }
 }
