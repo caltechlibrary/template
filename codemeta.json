@@ -47,9 +47,9 @@
         }
     ],
     "issueTracker": "https://github.com/caltechlibrary/template/issues",
-    "license": "https://github.com/caltechlibrary/template/blob/master/LICENSE",
+    "license": "https://github.com/caltechlibrary/template/blob/main/LICENSE",
     "developmentStatus": "active",
-    "downloadUrl": "https://github.com/caltechlibrary/template/archive/master.zip",
+    "downloadUrl": "https://github.com/caltechlibrary/template/archive/main.zip",
     "codeRepository": "https://github.com/caltechlibrary/template",
     "datePublished": "2021-07-02",
     "keywords": [
