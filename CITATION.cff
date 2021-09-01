@@ -29,5 +29,5 @@ keywords:
 message: "If you use this software, please cite it using these metadata."
 repository-code: "https://github.com/caltechlibrary/template"
 title: "Caltech Library Software Repository Template"
-version: "1.11.0"
+version: "1.12.0"
 ...

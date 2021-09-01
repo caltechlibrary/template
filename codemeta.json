@@ -36,14 +36,14 @@
     "developmentStatus": "active",
     "downloadUrl": "https://github.com/caltechlibrary/template/archive/main.zip",
     "codeRepository": "https://github.com/caltechlibrary/template",
-    "datePublished": "2021-07-02",
+    "datePublished": "2021-08-31",
     "keywords": [
         "template",
         "software"
     ],
     "name": "Caltech Library Software Repository Template",
     "description": "Template repository for software projects by the Caltech Library",
-    "version": "1.11.0",
+    "version": "1.12.0",
     "maintainer": "https://orcid.org/0000-0001-9105-5960",
     "funder": {
           "@id": "https://doi.org/10.13039/100006961",
