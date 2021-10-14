@@ -1,8 +1,6 @@
-Change log for REPOSITORY
-=========================
+# Change log for REPOSITORY
 
-Version 0.0.0
--------------
+## Version 0.0.0
 
 * Write about a change here
 * Write about another change here
