@@ -1,4 +1,3 @@
-
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
@@ -14,6 +13,9 @@ authors:
    - family-names: Keswick
      given-names: Tommy
      orcid: https://orcid.org/0000-0001-5644-440X
-version: 1.14.0
 title: Caltech Library Software Repository Template
+version: 1.15.0
+doi: 10.22002/D1.20076
 date-released: 2022-03-25
+url: "https://github.com/caltechlibrary/template"
+
