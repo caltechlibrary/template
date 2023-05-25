@@ -12,7 +12,10 @@
       "@type": "Person",
       "givenName": "FIRSTNAME",
       "familyName": "LASTNAME",
-      "affiliation": "California Institute of Technology Library",
+      "affiliation": {
+                "@type": "Organization",
+                "name": "Caltech"
+            },
       "email": "EMAIL",
       "@id": "https://orcid.org/YOUR-ORCID"
     }],
@@ -22,10 +25,21 @@
     "software",
     "science"
   ],
-  "maintainer": "https://orcid.org/YOUR-ORCID",
-  "funder": { 
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "FIRSTNAME",
+      "familyName": "LASTNAME",
+      "affiliation": {
+                "@type": "Organization",
+                "name": "Caltech Library"
+            },
+      "email": "EMAIL",
+      "@id": "https://orcid.org/YOUR-ORCID"
+    }],
+  "funder": [{ 
           "@id": "https://doi.org/10.13039/100006961",
           "@type": "Organization",
           "name": "Caltech Library"
-  }
+  }]
 }
