@@ -17,7 +17,7 @@ This is a template README file for software repositories.  This first paragraph 
 * [Contributing](#contributing)
 * [License](#license)
 * [Authors and history](#authors-and-history)
-* [Acknowledgments](#authors-and-acknowledgments)
+* [Acknowledgments](#acknowledgments)
 
 
 ## Introduction
@@ -38,7 +38,7 @@ a command-line command here
 ```
 
 Sometimes, subsections may be needed for different operating systems or particularly complicated installations.
- 
+
 
 ## Usage
 
@@ -87,6 +87,6 @@ This work was funded by the California Institute of Technology Library.
 <div align="center">
   <br>
   <a href="https://www.caltech.edu">
-    <img width="100" height="100" src="https://raw.githubusercontent.com/caltechlibrary/template/main/.graphics/caltech-round.png">
+    <img width="100" height="100" alt="Caltech logo" src="https://raw.githubusercontent.com/caltechlibrary/template/main/.graphics/caltech-round.png">
   </a>
 </div>
