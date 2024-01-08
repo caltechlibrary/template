@@ -1,6 +1,5 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: Caltech Library Software Repository Template
 authors:
   - family-names: Hucka
     given-names: Michael
@@ -14,12 +13,13 @@ authors:
   - family-names: Keswick
     given-names: Tommy
     orcid: https://orcid.org/0000-0001-5644-440X
+title: Caltech Library Software Repository Template
 abstract: Template repository for software projects by the Caltech Library
-repository-code: "https://github.com/caltechlibrary/template"
-type: software
 version: 1.22.0
 date-released: 2023-12-12
+repository-code: "https://github.com/caltechlibrary/template"
 license-url: "https://github.com/caltechlibrary/template/blob/main/LICENSE"
+type: software
 keywords:
   - template
   - software
