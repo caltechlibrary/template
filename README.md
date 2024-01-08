@@ -2,7 +2,7 @@
 
 This is a template README file for software repositories.  This first paragraph of the README should summarize your software in a concise fashion, preferably using no more than one or two sentences.
 
-[![License](https://img.shields.io/badge/License-BSD--like-lightgrey)](https://choosealicense.com/licenses/bsd-3-clause)
+[![License](https://img.shields.io/badge/License-BSD--like-lightgrey)](https://github.com/caltechlibrary/template/blob/main/LICENSE)
 [![Latest release](https://img.shields.io/github/v/release/caltechlibrary/template.svg?color=b44e88)](https://github.com/caltechlibrary/template/releases)
 [![DOI](https://img.shields.io/badge/dynamic/json.svg?label=DOI&style=flat-square&colorA=gray&colorB=navy&query=$.pids.doi.identifier&uri=https://data.caltech.edu/api/records/pba80-gpj34)](https://data.caltech.edu/records/pba80-gpj34)
 
@@ -70,7 +70,7 @@ This section is optional; if your repository is for a project that accepts open-
 
 ## License
 
-Software produced by the Caltech Library is Copyright © 2023 California Institute of Technology.  This software is freely distributed under a BSD-style license.  Please see the [LICENSE](LICENSE) file for more information.
+Software produced by the Caltech Library is Copyright © 2024 California Institute of Technology.  This software is freely distributed under a modified BSD 3-clause license.  Please see the [LICENSE](LICENSE) file for more information.
 
 
 ## Authors and history
