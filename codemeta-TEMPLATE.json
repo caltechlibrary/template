@@ -54,6 +54,8 @@
   "releaseNotes": "https://github.com/caltechlibrary/REPONAME/blob/main/CHANGES.md",
   "issueTracker": "https://github.com/caltechlibrary/REPONAME/issues",
   "downloadUrl": "https://github.com/caltechlibrary/REPONAME/archive/main.zip",
+  "softwareHelp": "DOCUMENTATION PAGES/SITE IF ANY",
+  "relatedLink": "https://data.caltech.edu/records/INVENIORDM-RECORD-ID-IF-ANY",
   "programmingLanguage": {
     "@type": "ComputerLanguage",
     "name": "THE PRIMARY PROGRAMMING LANGUAGE",

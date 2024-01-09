@@ -66,11 +66,13 @@
   "copyrightYear": 2024,
   "license": "https://github.com/caltechlibrary/template/blob/main/LICENSE",
   "isAccessibleForFree": true,
+  "url": "https://github.com/caltechlibrary/template",
   "codeRepository": "https://github.com/caltechlibrary/template",
   "readme": "https://github.com/caltechlibrary/template/blob/main/README.md",
   "releaseNotes": "https://github.com/caltechlibrary/template/blob/main/CHANGES.md",
   "issueTracker": "https://github.com/caltechlibrary/template/issues",
   "downloadUrl": "https://github.com/caltechlibrary/template/archive/main.zip",
+  "relatedLink": "https://data.caltech.edu/records/31x4w-3pr12",
   "keywords": [
     "template",
     "software"
