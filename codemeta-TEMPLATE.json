@@ -56,11 +56,13 @@
   "downloadUrl": "https://github.com/caltechlibrary/REPONAME/archive/main.zip",
   "softwareHelp": "DOCUMENTATION PAGES/SITE IF ANY",
   "relatedLink": "https://data.caltech.edu/records/INVENIORDM-RECORD-ID-IF-ANY",
-  "programmingLanguage": {
-    "@type": "ComputerLanguage",
-    "name": "THE PRIMARY PROGRAMMING LANGUAGE",
-    "version": "MINIMUM LANGUAGE VERSION IF APPLICABLE"
-  },
+  "programmingLanguage": [
+    {
+      "@type": "ComputerLanguage",
+      "name": "THE PRIMARY PROGRAMMING LANGUAGE",
+      "version": "MINIMUM LANGUAGE VERSION IF APPLICABLE"
+    }
+  ],
   "keywords": [
     "software",
     "library",
