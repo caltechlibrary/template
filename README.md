@@ -4,7 +4,7 @@ This is a template README file for software repositories.  This first paragraph 
 
 [![License](https://img.shields.io/badge/License-BSD--like-lightgrey)](https://github.com/caltechlibrary/template/blob/main/LICENSE)
 [![Latest release](https://img.shields.io/github/v/release/caltechlibrary/template.svg?color=b44e88)](https://github.com/caltechlibrary/template/releases)
-[![DOI](https://img.shields.io/badge/dynamic/json.svg?label=DOI&style=flat-square&colorA=gray&colorB=navy&query=$.pids.doi.identifier&uri=https://data.caltech.edu/api/records/pba80-gpj34)](https://data.caltech.edu/records/pba80-gpj34)
+[![DOI](https://img.shields.io/badge/dynamic/json.svg?label=DOI&style=flat-square&colorA=gray&colorB=navy&query=$.pids.doi.identifier&uri=https://data.caltech.edu/api/records/1n20b-6y141)](https://data.caltech.edu/records/1n20b-6y141)
 
 
 ## Table of contents
