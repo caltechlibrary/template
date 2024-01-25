@@ -8,9 +8,9 @@ on:
   workflow_dispatch:
     inputs:
       reason:
-        description: 'Reason'
+        description: Reason
         required: false
-        default: 'Manual trigger'
+        default: Manual trigger
 
 jobs:
   CodeMeta2CFF:
@@ -23,5 +23,5 @@ jobs:
       - name: Commit CFF
         uses: EndBug/add-and-commit@v9
         with:
-          message: 'Add CITATION.cff for release'
-          add: 'CITATION.cff'
+          message: Add CITATION.cff for release
+          add: CITATION.cff

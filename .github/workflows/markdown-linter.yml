@@ -4,7 +4,7 @@
 # License: Modified BSD 3-clause – see file "LICENSE" in the project website.
 # Website: https://github.com/caltechlibrary/template
 
-name: Lint Markdown files
+name: Markdown file linter
 run-name: Lint Markdown files after ${{github.event_name}} by ${{github.actor}}
 
 on:
@@ -20,12 +20,12 @@ on:
 
 jobs:
   lint:
-    name: "Run Markdown linter"
+    name: Run Markdown linter
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
     - uses: DavidAnson/markdownlint-cli2-action@v13
       with:
-        config: '.markdownlint.json'
+        config: .markdownlint.json
         globs: |
           *.md

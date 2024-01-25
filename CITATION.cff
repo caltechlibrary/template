@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it using the metadata from this file."
+message: If you use this software, please cite it using the metadata from this file.
 authors:
   - family-names: Hucka
     given-names: Michael
@@ -15,10 +15,10 @@ authors:
     orcid: https://orcid.org/0000-0001-5644-440X
 title: Caltech Library Software Repository Template
 abstract: Template repository for software projects by the Caltech Library
-version: 1.25.0
-date-released: 2024-01-09
-repository-code: "https://github.com/caltechlibrary/template"
-license-url: "https://github.com/caltechlibrary/template/blob/main/LICENSE"
+version: 1.26.0
+date-released: 2024-01-24
+repository-code: https://github.com/caltechlibrary/template
+license-url: https://github.com/caltechlibrary/template/blob/main/LICENSE
 type: software
 keywords:
   - template
