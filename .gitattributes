@@ -29,17 +29,21 @@
 *.toml	text
 *.tex	text diff=tex
 *.txt	text
+*.xml	text diff=xml
 *.yaml	text merge=yaml
 *.yml	text merge=yaml
 
 # RC files like .babelrc, .eslintrc, etc.
 *.*rc	text
 
+# This avoids compatibility issues between Windows and Mac.
+*.csv	text eol=crlf
+
 LICENSE		text
 Makefile	text
 
-*.gitattributes	text
 *.*ignore	text
+*.gitattributes	text
 .gitconfig	text
 
 # Interpretation of common binary files ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -65,7 +69,7 @@ Makefile	text
 *.xls	binary
 *.zip	binary
 
-# Special case for CSV files ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# This avoids compatibility issues between Windows and Mac.
+# Interpretation of Mac-specific files ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*.csv	text eol=crlf
+*.quartz	text diff=xml
+*.shortcut	binary
