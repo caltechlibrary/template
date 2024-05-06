@@ -4,8 +4,8 @@
   "name": "Caltech Library Software Repository Template",
   "identifier": "template",
   "description": "Template repository for software projects by the Caltech Library",
-  "version": "1.32.0",
-  "datePublished": "2024-02-21",
+  "version": "1.33.0",
+  "datePublished": "2024-05-06",
   "dateCreated": "2019-07-23",
   "author": [
     {
@@ -63,7 +63,7 @@
       "name": "California Institute of Technology"
     }
   ],
-  "copyrightYear": 2024,
+  "copyrightYear": "2024",
   "license": "https://github.com/caltechlibrary/template/blob/main/LICENSE",
   "isAccessibleForFree": true,
   "url": "https://github.com/caltechlibrary/template",
