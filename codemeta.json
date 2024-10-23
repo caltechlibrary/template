@@ -4,8 +4,7 @@
   "name": "Caltech Library Software Repository Template",
   "identifier": "template",
   "description": "Template repository for software projects by the Caltech Library",
-  "version": "1.32.0",
-  "datePublished": "2024-02-21",
+  "version": "1.34.0",
   "dateCreated": "2019-07-23",
   "author": [
     {
