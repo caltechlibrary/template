@@ -48,13 +48,11 @@
       "givenName": "Tommy"
     }
   ],
-  "funder": [
-    {
+  "funder": {
       "@id": "https://doi.org/10.13039/100006961",
       "@type": "Organization",
       "name": "Caltech Library"
-    }
-  ],
+  },
   "copyrightHolder": [
     {
       "@id": "https://ror.org/05dxps055",
