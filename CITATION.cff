@@ -17,9 +17,9 @@ authors:
 abstract: Template repository for software projects by the Caltech Library
 repository-code: "https://github.com/caltechlibrary/template"
 type: software
-version: 1.35.0
+version: 1.36.0
 license-url: "https://github.com/caltechlibrary/template/blob/main/LICENSE"
 keywords:
   - template
   - software
-date-released: 2024-11-06
+date-released: 2024-11-07
