@@ -12,6 +12,7 @@
       "givenName": "FIRSTNAME",
       "familyName": "LASTNAME",
       "affiliation": {
+        "@id": "https://ror.org/05dxps055",
         "@type": "Organization",
         "name": "California Institute of Technology Library"
       },
@@ -25,6 +26,7 @@
       "givenName": "FIRSTNAME",
       "familyName": "LASTNAME",
       "affiliation": {
+        "@id": "https://ror.org/05dxps055",
         "@type": "Organization",
         "name": "California Institute of Technology Library"
       },
