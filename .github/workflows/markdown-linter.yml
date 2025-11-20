@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out copy of git repository.
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Run Markdownlint on .md files.
         uses: DavidAnson/markdownlint-cli2-action@v15
