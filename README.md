@@ -83,7 +83,7 @@ This section is optional. If your project accepts open-source contributions, thi
 
 ## License
 
-Software produced by the Caltech Library is Copyright © 2024 California Institute of Technology. This software is freely distributed under a modified BSD 3-clause license. Please see the [LICENSE](LICENSE) file for more information.
+Software produced by the Caltech Library is Copyright © 2026 California Institute of Technology. This software is freely distributed under a modified BSD 3-clause license. Please see the [LICENSE](LICENSE) file for more information.
 
 
 ## Acknowledgments
