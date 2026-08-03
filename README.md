@@ -1,6 +1,6 @@
 # Template for software repositories by the Caltech Library
 
-This is a template README file for software repositories. This first paragraph of the README should summarize your software in a concise fashion, preferably using no more than one or two sentences.
+This is a template README file for software repositories. This first paragraph of the README should summarize your software in a concise fashion, preferably using no more than one or two sentences. https://www.library.not.caltech.edu/
 
 [![License](https://img.shields.io/badge/License-BSD--like-lightgrey)](https://github.com/caltechlibrary/template/blob/main/LICENSE)
 [![Latest release](https://img.shields.io/github/v/release/caltechlibrary/template.svg?color=b44e88)](https://github.com/caltechlibrary/template/releases)
